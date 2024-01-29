@@ -1,5 +1,7 @@
 ShadowsocksR
 ===========
+this project is for backup and learning purposes which originated from 
+https://github.com/shadowsocksr
 
 [![Build Status]][Travis CI]
 
